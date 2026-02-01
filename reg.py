@@ -1,11 +1,9 @@
 import pyodbc as pdb
 import customtkinter as ui
 
-
 #db connection
 def insert():
     try:
-        global ids
         
         connection = pdb.connect('DRIVER={SQL Server};'+
                                 'Server=FX505DY\SQLEXPRESS;'+
