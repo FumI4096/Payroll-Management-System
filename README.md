@@ -38,7 +38,7 @@ cd Payroll-Management-System
    ```python
    driver = 'your_driver_name'
    server = 'your_server_name'
-   database = 'your_database_name
+   database = 'your_database_name'
    ```
 4. Run any provided SQL scripts to create tables and schema
 
