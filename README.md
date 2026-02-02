@@ -1,4 +1,4 @@
-# Payroll Management System 💼
+# Payroll Management System 
 
 A desktop application for managing employee payroll, leave requests, and attendance tracking built with Python and Tkinter.
 
